@@ -5,7 +5,7 @@ By Suraj Jayakumar-sxj240002
  and Aryan Pathak-axp220237
  
 Use queries:
+
 recommend(Plan,jack/trevor/shania/ralph).
 
-	OR
 -recommend(Plan,jack/trevor/Shania/ralph).
