@@ -11,8 +11,8 @@ recommend(Plan,jack/trevor/shania/ralph).
 -recommend(Plan,jack/trevor/Shania/ralph).
 
 Sources:
-https://www.youtube.com/watch?v=0-MvPj2GdYY
+
+
 https://www.texashealthplancompare.com/how-to-choose.html
-https://www.youtube.com/watch?v=hCmn-mQ8lAI (great video if you have the time (35mins))
 https://www.nerdwallet.com/article/health/choose-health-insurance
 https://www.healthcare.gov/choose-a-plan/plans-categories/
